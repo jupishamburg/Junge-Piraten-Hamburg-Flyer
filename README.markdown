@@ -5,11 +5,11 @@ Fertiger Entwurf eines Flyers für die Jungen Piraten, angepasst für die Hambur
 Verwendete Schriftarten
 -----------------------
 *   Coolvetica
-**   http://www.dafont.com/coolvetica.font
+   *   http://www.dafont.com/coolvetica.font
 *   Cantarell
-**   http://abattis.org/cantarell/
+   *   http://abattis.org/cantarell/
 *   PT Sans
-**   http://www.paratype.com/public/
+   *   http://www.paratype.com/public/
 
 Verwendete Grafiken
 -------------------
