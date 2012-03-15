@@ -13,8 +13,8 @@
    height="524.40942"
    id="svg11363"
    version="1.1"
-   inkscape:version="0.48.3 r9882"
-   sodipodi:docname="rückseite.svg">
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="rueckseite.svg">
   <defs
      id="defs11365">
     <clipPath
@@ -41,9 +41,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4940127"
-     inkscape:cx="371.12523"
-     inkscape:cy="304.39713"
+     inkscape:zoom="1.0564265"
+     inkscape:cx="365.70037"
+     inkscape:cy="262.20471"
      inkscape:document-units="cm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -139,7 +139,7 @@
      transform="translate(0,-0.00105118)">
     <g
        id="layer1-11"
-       transform="matrix(0.55791537,0,0,0.55791537,383.65532,74.609491)">
+       transform="matrix(0.55791537,0,0,0.55791537,383.65532,76.609491)">
       <path
          inkscape:connector-curvature="0"
          d="M 16.039374,15.645287 21.897536,32.485324 43.247293,3.3794684"
@@ -167,79 +167,68 @@
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        x="420.22934"
-       y="93.068184"
+       y="95.068184"
        id="text7145"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan7147"
          x="420.22934"
-         y="93.068184">Freie Bildung für alle</tspan></text>
+         y="95.068184">Freie Bildung für alle</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        x="420.22934"
-       y="149.64697"
+       y="155.64697"
        id="text7149"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="420.22934"
-         y="149.64697"
+         y="155.64697"
          id="tspan7153">Förderung von Medienkompetenz</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       x="419.93073"
-       y="284.16165"
-       id="text7155"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="419.93073"
-         y="284.16165"
-         id="tspan7161">Stärkung der Menschenrechte</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        x="420.22934"
-       y="121.62512"
+       y="125.62512"
        id="text7163"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="420.22934"
-         y="121.62512"
+         y="125.62512"
          id="tspan7167">Mehr Basisdemokratie</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        x="420.69873"
-       y="256.04245"
+       y="268.04245"
        id="text7169"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="420.69873"
-         y="256.04245"
+         y="268.04245"
          id="tspan7175">Chancengleichheit und Gleichberechtigung</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        x="420.64532"
-       y="177.91251"
+       y="185.91251"
        id="text7177"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="420.64532"
-         y="177.91251"
+         y="185.91251"
          id="tspan7325">Transparenter Staat anstatt des </tspan><tspan
          sodipodi:role="line"
          x="420.64532"
-         y="197.91251"
+         y="205.91251"
          id="tspan4744">gläsernen Bürgers</tspan><tspan
          sodipodi:role="line"
          x="420.64532"
-         y="217.91251"
+         y="225.91251"
          id="tspan7183" /></text>
     <g
        id="layer1-11-2"
-       transform="matrix(0.55791537,0,0,0.55791537,383.65532,102.95594)">
+       transform="matrix(0.55791537,0,0,0.55791537,383.65532,106.95594)">
       <path
          inkscape:connector-curvature="0"
          d="M 16.039374,15.645287 21.897536,32.485324 43.247293,3.3794684"
@@ -248,7 +237,7 @@
     </g>
     <g
        id="layer1-11-2-7"
-       transform="matrix(0.55791537,0,0,0.55791537,383.65532,131.3024)">
+       transform="matrix(0.55791537,0,0,0.55791537,383.65532,137.3024)">
       <path
          inkscape:connector-curvature="0"
          d="M 16.039374,15.645287 21.897536,32.485324 43.247293,3.3794684"
@@ -257,7 +246,7 @@
     </g>
     <g
        id="layer1-11-2-7-2"
-       transform="matrix(0.55791537,0,0,0.55791537,383.65532,159.64886)">
+       transform="matrix(0.55791537,0,0,0.55791537,383.65532,167.64886)">
       <path
          inkscape:connector-curvature="0"
          d="M 16.039374,15.645287 21.897536,32.485324 43.247293,3.3794684"
@@ -266,7 +255,7 @@
     </g>
     <g
        id="layer1-11-2-7-2-9"
-       transform="matrix(0.55791537,0,0,0.55791537,383.64468,208.80725)">
+       transform="matrix(0.55791537,0,0,0.55791537,383.64468,218.80725)">
       <path
          inkscape:connector-curvature="0"
          d="M 16.039374,15.645287 21.897536,32.485324 43.247293,3.3794684"
@@ -277,16 +266,16 @@
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        x="420.21872"
-       y="226.47821"
+       y="236.47821"
        id="text7275"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="420.21872"
-         y="226.47821"
-         id="tspan7279">Gerechtes Urheberrecht</tspan></text>
+         y="236.47821"
+         id="tspan7279">Zeitgemäßes Urheberrecht</tspan></text>
     <g
        id="layer1-11-2-7-2-9-4"
-       transform="matrix(0.55791537,0,0,0.55791537,383.64468,236.93324)">
+       transform="matrix(0.55791537,0,0,0.55791537,383.64468,248.93324)">
       <path
          inkscape:connector-curvature="0"
          d="M 16.039374,15.645287 21.897536,32.485324 43.247293,3.3794684"
@@ -294,17 +283,8 @@
          id="path2170-7-1-4-9-8" />
     </g>
     <g
-       id="layer1-11-2-7-2-9-4-5"
-       transform="matrix(0.55791537,0,0,0.55791537,383.64468,265.0671)">
-      <path
-         inkscape:connector-curvature="0"
-         d="M 16.039374,15.645287 21.897536,32.485324 43.247293,3.3794684"
-         style="fill:none;stroke:#00c800;stroke-width:9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-         id="path2170-7-1-4-9-8-2" />
-    </g>
-    <g
        id="g2159"
-       transform="matrix(0.56139034,0,0,0.56139034,385.49075,307.38039)">
+       transform="matrix(0.56139034,0,0,0.56139034,385.49075,301.38039)">
       <path
          inkscape:connector-curvature="0"
          id="path2163"
@@ -316,31 +296,27 @@
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        x="421.23734"
-       y="326.81012"
+       y="320.81012"
        id="text7348"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="421.23734"
-         y="326.81012"
-         id="tspan4569">Gegen den zunehmenden Überwachungs-</tspan><tspan
-         sodipodi:role="line"
-         x="421.23734"
-         y="346.81012"
-         id="tspan4573">wahn</tspan></text>
+         y="320.81012"
+         id="tspan4573">Den zunehmenden Überwachungswahn</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        x="420.14954"
-       y="375.16449"
+       y="353.16449"
        id="text7360"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="420.14954"
-         y="375.16449"
-         id="tspan7389">Gegen Polizeigewalt</tspan></text>
+         y="353.16449"
+         id="tspan7389">Polizeigewalt</tspan></text>
     <g
        id="g2159-5"
-       transform="matrix(0.56139034,0,0,0.56139034,385.49075,356.07505)">
+       transform="matrix(0.56139034,0,0,0.56139034,385.49075,334.07505)">
       <path
          inkscape:connector-curvature="0"
          id="path2163-7"
@@ -351,23 +327,23 @@
     <text
        xml:space="preserve"
        style="font-size:34.99794388px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Dirty Headline;-inkscape-font-specification:Dirty Headline"
-       x="78.373817"
+       x="76.373703"
        y="61.812519"
        id="text12108"
        sodipodi:linespacing="125%"
        transform="scale(0.9999413,1.0000587)"><tspan
          sodipodi:role="line"
          id="tspan12110"
-         x="78.373817"
+         x="76.373703"
          y="61.812519"
          style="font-size:42px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Coolvetica;-inkscape-font-specification:Coolvetica">Das sind wi<tspan
    style="letter-spacing:0.1px"
    id="tspan3901"><tspan
      style="letter-spacing:1px"
      id="tspan3903"><tspan
-       style="letter-spacing:5.00000001px"
+       style="letter-spacing:5px"
        id="tspan3905"><tspan
-         style="letter-spacing:3.00000001px"
+         style="letter-spacing:3px"
          id="tspan3907">r:  </tspan></tspan></tspan></tspan></tspan></text>
     <text
        xml:space="preserve"
@@ -405,7 +381,7 @@
        xml:space="preserve"
        id="flowRoot12156"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:justify;line-height:129.99999523%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
-       transform="translate(6.5785925,-3.434305)"><flowRegion
+       transform="translate(6.5785925,-1.434305)"><flowRegion
          id="flowRegion12158"><rect
            id="rect12160"
            width="329.76764"
@@ -413,31 +389,33 @@
            x="14.285714"
            y="80.123711"
            style="text-align:justify;line-height:129.99999523%;text-anchor:start" /></flowRegion><flowPara
-         id="flowPara12229"
-         style="text-align:start;text-anchor:start">Die Jungen Piraten sind die <flowSpan
-   style="font-size:16px;font-weight:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;-inkscape-font-specification:Cantarell"
-   id="flowSpan3083">unabhängige</flowSpan> Jugendorganisation der Piratenpartei  Deutschland. Wir sind Jugend­li­che und junge Erwachsene, die sich  <flowSpan
-   style="font-size:17px;font-weight:bold;text-align:start;text-anchor:start;fill:#ff8000;fill-opacity:1;-inkscape-font-specification:Cantarell Bold"
-   id="flowSpan3879">poli­tisch  enga­gie­ren, </flowSpan></flowPara><flowPara
-         style="text-align:start;text-anchor:start"
-         id="flowPara3869"><flowSpan
-   style="font-size:17px;font-weight:bold;text-align:start;text-anchor:start;fill:#ff8000;fill-opacity:1;-inkscape-font-specification:Cantarell Bold"
-   id="flowSpan3881">wei­ter­bil­den und wei­ter­ent­wi­ckeln</flowSpan> wollen.</flowPara><flowPara
-         style="text-align:start;text-anchor:start"
+         style="text-align:start;line-height:129.99999523%;text-anchor:start"
+         id="flowPara3869">Die Jungen Piraten sind die <flowSpan
+   style="font-size:17px;font-weight:bold;text-align:start;line-height:129.99999523%;text-anchor:start;fill:#ff8000;fill-opacity:1;-inkscape-font-specification:Cantarell Bold"
+   id="flowSpan3083">unabhängige</flowSpan> Jugendorganisation der Piratenpartei  Deutschland. Wir sind Jugend­li­che und junge Erwachsene bis zu einem Alter von 27 Jahren, die sich  <flowSpan
+   style="font-size:17px;font-weight:bold;text-align:start;line-height:129.99999523%;text-anchor:start;fill:#ff8000;fill-opacity:1;-inkscape-font-specification:Cantarell Bold"
+   id="flowSpan3879">poli­tisch  enga­gie­ren, wei­ter­- </flowSpan></flowPara><flowPara
+         style="text-align:start;line-height:129.99999523%;text-anchor:start"
+         id="flowPara3338"><flowSpan
+   style="font-size:17px;font-weight:bold;text-align:start;line-height:129.99999523%;text-anchor:start;fill:#ff8000;fill-opacity:1;-inkscape-font-specification:Cantarell Bold"
+   id="flowSpan3340">bil­den und wei­ter­ent­wi­ckeln</flowSpan> wollen.</flowPara><flowPara
+         style="text-align:start;line-height:129.99999523%;text-anchor:start"
          id="flowPara3075" /><flowPara
-         style="text-align:start;text-anchor:start"
+         style="text-align:start;line-height:129.99999523%;text-anchor:start"
          id="flowPara3091">Obwohl wir eng mit der Piratenpartei zusammenarbeiten, sind wir <flowSpan
-   style="font-size:17px;font-weight:bold;fill:#ff8000;fill-opacity:1;-inkscape-font-specification:Cantarell Bold"
+   style="font-size:17px;font-weight:bold;line-height:129.99999523%;fill:#ff8000;fill-opacity:1;-inkscape-font-specification:Cantarell Bold"
    id="flowSpan3420">thematisch nicht an diese gebunden</flowSpan> und ver­tre­ten unsere <flowSpan
-   style="font-size:17px;font-weight:bold;fill:#ff8000;fill-opacity:1;-inkscape-font-specification:Cantarell Bold"
-   id="flowSpan4194">eigenen Standpunkte</flowSpan> auch gegen-­über der Par­tei, selbst wenn unsere Posi­tio­n von der ihren abwei­cht.</flowPara><flowPara
-         style="text-align:start;text-anchor:start"
+   style="font-size:17px;font-weight:bold;line-height:129.99999523%;fill:#ff8000;fill-opacity:1;-inkscape-font-specification:Cantarell Bold"
+   id="flowSpan4194">eigenen Standpunkte</flowSpan> auch gegen-­über unserer Mutterpartei.</flowPara><flowPara
+         style="text-align:start;line-height:129.99999523%;text-anchor:start"
          id="flowPara3079" /><flowPara
-         style="text-align:start;text-anchor:start"
+         style="text-align:start;line-height:129.99999523%;text-anchor:start"
          id="flowPara3081">Selbst­ver­ständ­lich kommt der Spaß bei uns nicht zu kurz: Durch <flowSpan
-   style="font-size:17px;font-weight:bold;fill:#ff8000;fill-opacity:1;-inkscape-font-specification:Cantarell Bold"
-   id="flowSpan4202">regel­mä­ßige gemeinschaft­li­che Aktio­nen</flowSpan> werden der Zusammen­­halt gestärkt sowie soziale Kon-­takte geknüpft und gepflegt.</flowPara><flowPara
-         style="text-align:start;text-anchor:start"
+   style="font-size:17px;font-weight:bold;line-height:129.99999523%;fill:#ff8000;fill-opacity:1;-inkscape-font-specification:Cantarell Bold"
+   id="flowSpan4202">regel­mä­ßige gemeinschaft­li­che Aktio­nen</flowSpan> werden der Zusammen­­halt gestärkt sowie soziale </flowPara><flowPara
+         style="text-align:start;line-height:129.99999523%;text-anchor:start"
+         id="flowPara3342">Kontakte geknüpft und gepflegt.</flowPara><flowPara
+         style="text-align:start;line-height:129.99999523%;text-anchor:start"
          id="flowPara4512" /></flowRoot>    <rect
        style="fill:#df7613;fill-opacity:1;stroke:none"
        id="rect3068"
@@ -447,7 +425,7 @@
        y="0.070841454" />
     <g
        id="g2159-5-3"
-       transform="matrix(0.56139034,0,0,0.56139034,385.48011,420.80958)">
+       transform="matrix(0.56139034,0,0,0.56139034,385.48011,398.80958)">
       <path
          inkscape:connector-curvature="0"
          id="path2163-7-0"
@@ -459,31 +437,27 @@
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        x="420.64532"
-       y="440.22049"
+       y="418.22049"
        id="text4563"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="420.64532"
-         y="440.22049"
-         id="tspan4567">Gegen die Missachtung des Grund-</tspan><tspan
-         sodipodi:role="line"
-         x="420.64532"
-         y="460.22049"
-         id="tspan4748">gesetzes</tspan></text>
+         y="418.22049"
+         id="tspan4748">Die Missachtung des Grundgesetzes</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
        x="420.13892"
-       y="407.71613"
+       y="385.71613"
        id="text7360-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="420.13892"
-         y="407.71613"
-         id="tspan7389-5">Gegen Bevormundung durch den Staat </tspan></text>
+         y="385.71613"
+         id="tspan7389-5">Staatliche Bevormundung </tspan></text>
     <g
        id="g2159-5-2"
-       transform="matrix(0.56139034,0,0,0.56139034,385.48011,388.62669)">
+       transform="matrix(0.56139034,0,0,0.56139034,385.48011,366.62669)">
       <path
          inkscape:connector-curvature="0"
          id="path2163-7-4"
