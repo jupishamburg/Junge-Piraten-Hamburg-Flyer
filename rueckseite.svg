@@ -63,7 +63,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -302,7 +302,7 @@
          sodipodi:role="line"
          x="421.23734"
          y="320.81012"
-         id="tspan4573">Den zunehmenden Überwachungswahn</tspan></text>
+         id="tspan4573">Zunehmenden Überwachungswahn</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
@@ -443,7 +443,7 @@
          sodipodi:role="line"
          x="420.64532"
          y="418.22049"
-         id="tspan4748">Die Missachtung des Grundgesetzes</tspan></text>
+         id="tspan4748">Missachtung des Grundgesetzes</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Cantarell;-inkscape-font-specification:Cantarell"
